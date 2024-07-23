@@ -1,0 +1,63 @@
+.profile h1{
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+.profile p{
+    text-align: center;
+}
+.profile-nika{
+    display: flex;
+    justify-content: center;
+}
+.profile-nika5{
+    display: block;
+    margin:center;
+    margin-top: 10px;
+}
+.profile-nika7{
+    margin-left: 20px;
+    justify-content: center;
+    color:rgb(0, 0, 0);
+    margin-top: 20px;
+    align-items: center;
+    padding: 0;
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    border: 2px solid rgb(39, 84, 54);
+}
+.profile-nika7 a{
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.profile-nika7 i{
+    margin-top: 20px;
+}
+.profile-nika7 img{
+    width: 300px;
+    height: 300px;
+}
+
+.resume-text{
+    background-color: rgb(255, 255, 255);
+    padding: 2rem 3rem;
+    margin-right: 5rem;
+    margin-top: 5rem;
+    font-size: 1rem;
+    width: 500px;
+    height: 300px;
+    border: 2px solid rgb(25, 61, 29);
+    text-align: center;
+}
+*{
+    background-color: rgb(230, 74, 186);
+}
+.resume-text p{
+    background-color: rgb(255, 255, 255);
+}
+.resume-text h3{
+    background-color: rgb(255, 255, 255);
+}
